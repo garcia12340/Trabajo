@@ -1,0 +1,15 @@
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete

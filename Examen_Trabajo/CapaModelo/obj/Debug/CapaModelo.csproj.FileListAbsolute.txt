@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Administrador\Documents\Examen_Trabajo\CapaModelo\obj\Debug\CapaModelo.pdb
